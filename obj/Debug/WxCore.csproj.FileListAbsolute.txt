@@ -1,0 +1,4 @@
+C:\Users\Administrator\Source\Repos\ConsoleTest\W\bin\Debug\WxCore.dll
+C:\Users\Administrator\Source\Repos\ConsoleTest\W\bin\Debug\WxCore.pdb
+C:\Users\Administrator\Source\Repos\ConsoleTest\W\obj\Debug\WxCore.dll
+C:\Users\Administrator\Source\Repos\ConsoleTest\W\obj\Debug\WxCore.pdb
